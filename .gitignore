@@ -1,1 +1,48 @@
-/Datasets
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Jupyter
+# *.ipynb
+*.html
+
+# Model files
+*.h5
+*.pkl
+*.sav
+
+# Data
+*.csv
+*.xlsx
+
+# IDE-specific files
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore Datasets folder
+Datasets/
