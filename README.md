@@ -1,4 +1,4 @@
-# Name:  Breast Cancer Analysis
+# Name:  [Breast Cancer Analysis](BreastCancer.ipynb)
 
 ## Project Type: Unsupervised Learning Technique: Clustering
 
@@ -8,7 +8,7 @@ in such a way that objects in the same group (called a cluster) are more similar
 to each other than to those in other groups (clusters).
 
 
-# Name: Twitter Sentiment Analysis
+# Name: [Twitter Sentiment Analysis](SentimentAnalysis.ipynb)
 
 ## Project Type: Natural Language Processing (NLP)
 
@@ -20,7 +20,7 @@ It is the interpretation and classification of emotions (positive, negative and 
 
 https://www.kaggle.com/code/stoicstatic/twitter-sentiment-analysis-for-beginners/data?select=training.1600000.processed.noemoticon.csv
 
-# Name: Stock Market Analysis
+# Name: [Stock Market Analysis](StockMarketAnalysis.ipynb)
 
 ## Project Type: Deep Learning: Long short-term memory (LSTM)
 
