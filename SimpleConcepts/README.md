@@ -6,3 +6,6 @@ Linear regression is a statistical method used in machine learning and statistic
 [Canada per capita income Dataset](https://github.com/codebasics/py/blob/master/ML/1_linear_reg/Exercise/canada_per_capita_income.csv)
 [Homeprices Dataset](https://github.com/codebasics/py/blob/master/ML/2_linear_reg_multivariate/homeprices.csv)
 [Hiring Dataset](https://github.com/codebasics/py/blob/master/ML/2_linear_reg_multivariate/Exercise/hiring.csv)
+
+## What is Gradient Descent?
+Gradient Descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest decrease (negative gradient) of the function with respect to its parameters. It is commonly used in machine learning for training models, particularly in the context of minimizing the cost or loss function associated with the model.
